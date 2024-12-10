@@ -124,7 +124,10 @@ This module visualizes the ILP solution and provides insights into the task allo
 ## **How to Run**
 
 1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   cd <repository_name>
+``` bash git clone <repository_url> cd <repository_name> ```
 
+2. Install the required Python Libraries:
+``` pip install numpy pandas matplotlib seaborn networkx pulp ```
+
+3. Run the project:
+``` python main.py ``` 
